@@ -11,7 +11,7 @@
 </div>
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/NgadjeuDanel?t=cfhT1LJzxacCfLfzMQtD0Q&s=09)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/kadji-alan?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BolOavRMdTZCPwXM97MgFfQ%3D%3D)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ketchasso-charles-20340222b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging_conversation_detail%3BjFKPfQsqREaYMoCPnGeqCA%3D%3D)
 
 <!-- **Vivekagent47/Vivekagent47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -28,8 +28,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ## Github Statistics 📈
 
-[![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=kadjialan&count_private=true&hide_title=true&show_icons=true&hide_border=true&theme=nightowl&bg_color=161B22)](https://github.com/Payne680/Payne680)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadjialan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=kngcl&count_private=true&hide_title=true&show_icons=true&hide_border=true&theme=nightowl&bg_color=161B22)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kngcl&layout=compact&theme=vision-friendly-dark)]
 
 
 <h2 align="Center">  Charles's Tech Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
