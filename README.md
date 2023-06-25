@@ -22,7 +22,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I try getting some articles about tech and also try learning different programming languages.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kadji-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alan-kadji)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kadji-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ketchasso-charles-20340222b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BjV6GwtP4TaavLzCQ3E31JQ%3D%3D))
 
 ---
 
