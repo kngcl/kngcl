@@ -1,118 +1,46 @@
-# Hi, I'm Charles👋
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
- <div align="center">
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-</div>
+<h1 align="center">Hi 👋, I'm Charles</h1>
+<h3 align="center">A passionate software developer from Cameroon</h3>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kngcl&label=Profile%20views&color=0e75b6&style=flat" alt="kngcl" /> </p>
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/NgadjeuDanel?t=cfhT1LJzxacCfLfzMQtD0Q&s=09)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ketchasso-charles-20340222b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging_conversation_detail%3BjFKPfQsqREaYMoCPnGeqCA%3D%3D)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kngcl" alt="kngcl" /></a> </p>
 
-<!-- **Vivekagent47/Vivekagent47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<p align="left"> <a href="https://twitter.com/kngcl3" target="blank"><img src="https://img.shields.io/twitter/follow/kngcl3?logo=twitter&style=for-the-badge" alt="kngcl3" /></a> </p>
 
-### :man_technologist: &nbsp;About Me :
+- 🔭 I’m currently working on [whatsapp-react-native](https://github.com/kngcl/whatsapp-react-native)
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Cameroon.
+- 🌱 I’m currently learning **React Native,expo**
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I try getting some articles about tech and also try learning different programming languages.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://www.linkedin.com/in/ketchasso-charles-20340222b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BjV6GwtP4TaavLzCQ3E31JQ%3D%3D)
+- 👨‍💻 All of my projects are available at [https://github.com/kngcl](https://github.com/kngcl)
 
----
+- 📝 I regularly write articles on [https://medium.com/me/stories/public?source=your_stories_page---------1----------------------------](https://medium.com/me/stories/public?source=your_stories_page---------1----------------------------)
 
-## Github Statistics 📈
+- 💬 Ask me about **react.js,next.js,node.js,firebase,typescrypt,tailwind,javascript,figma,markdown**
 
-[![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=kngcl&count_private=true&hide_title=true&show_icons=true&hide_border=true&theme=nightowl&bg_color=161B22)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kngcl&layout=compact&theme=vision-friendly-dark)]
+- 📫 How to reach me **ketchasso72@gmail.com**
 
+- ⚡ Fun fact **i think am funny**
 
-<h2 align="Center">  Charles's Tech Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
-  
-  ### Programming Skills
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="140px" align="center">
-        <span>Javascript</span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png">
-      </td>
-      <td width="140px" align="center">
-        <span>Typescript</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg">
-      </td>
-      <td width="140px" align="center">
-        <span>Firebase</span><br><br><br>
-        <img height="64px" src="https://www.svgrepo.com/show/353735/firebase.svg">
-      </td>
-      <td width="140px" align="center">
-        <span>Nodejs</span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/kngcl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kngcl" height="30" width="40" /></a>
+<a href="https://twitter.com/kngcl3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kngcl3" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ketchasso-charles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ketchasso-charles" height="30" width="40" /></a>
+<a href="https://codesandbox.com/kngcl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="kngcl" height="30" width="40" /></a>
+<a href="https://medium.com/@charles ketchasso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@charles ketchasso" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kngcl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kngcl" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@kngcl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@kngcl" height="30" width="40" /></a>
+</p>
 
-  ### Designs Skills
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="140px" align="center">
-        <span>Figma</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/figma.svg">
-      </td>
-      <td width="140px" align="center">
-        <span>Photoshop</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/adobe-photoshop.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kngcl&show_icons=true&locale=en&layout=compact" alt="kngcl" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kngcl&show_icons=true&locale=en" alt="kngcl" /></p>
 
-   ### Frontend Technology Skills
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="140px" align="center">
-        <span>React</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/create-react-app.svg">
-      </td>
-            <td width="140px" align="center">
-        <span>NextJS</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nextjs-icon.svg">
-      </td>
-      <td width="140px" align="center">
-        <span>React Native</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg">
-      </td>
-      <td width="140px" align="center">
-        <span>HTML5</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="140px" align="center">
-        <span>Markdown</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/markdown.svg">
-      </td>
-      <td width="140px" align="center">
-        <span><strong>CSS3</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="140px" align="center">
-        <span><strong>Tailwind</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kngcl&" alt="kngcl" /></p>
